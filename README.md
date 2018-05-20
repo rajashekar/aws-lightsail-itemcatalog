@@ -26,7 +26,7 @@ Item catalog app is hosted on
 - Generated SSH keys using ssh-keygen for `grader`
 - Added SSH public key to `~/.ssh/authorized_keys`
 
-# Configurations maded & libraries installed to host item-catalog app
+# Configurations made & libraries installed to host item-catalog app
 - For Web server installed `sudo apt-get install apache2`
 - To host python based application `item-catalog`, a Web server Gateway Interface is needed, so installed `sudo apt-get install libapache2-mod-wsgi python-dev`
 - `item-catalog` uses sqlite3 database, to verify/query data, installed sqlite3 client - `sudo apt-get install sqlite3 libsqlite3-dev` 
