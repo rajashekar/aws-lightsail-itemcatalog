@@ -1,6 +1,6 @@
 # AWS lightsail itemcatalog
 
-This project is done as part of Udacity Fullstack Developer course. The purpose of the project is to create a brand-new, bare bones, Linux server into the secure and efficient web application. In this project item catalog is deployed on AWS light sail server.
+The purpose of the project is to create a brand-new, bare bones, Linux server into the secure and efficient web application. In this project item catalog is deployed on AWS light sail server.
 
 # Getting started
 Item catalog app is hosted on 
